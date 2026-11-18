@@ -1,0 +1,101 @@
+Product_ID,Category,Estimated_Price_Elasticity,Elasticity_Segment,Observation_Count,Price_Variation_CV,Reliability
+P001,Electronics,-0.0684,Inelastic,669,0.0557,Moderate - Observational Estimate
+P002,Electronics,-0.0913,Inelastic,669,0.0604,Moderate - Observational Estimate
+P003,Electronics,-0.1096,Inelastic,669,0.0573,Moderate - Observational Estimate
+P004,Electronics,-0.0781,Inelastic,669,0.0568,Moderate - Observational Estimate
+P005,Electronics,-0.0995,Inelastic,669,0.0517,Moderate - Observational Estimate
+P006,Electronics,-0.0746,Inelastic,669,0.0523,Moderate - Observational Estimate
+P007,Electronics,-0.1392,Inelastic,669,0.0556,Moderate - Observational Estimate
+P008,Electronics,-0.0947,Inelastic,669,0.058,Moderate - Observational Estimate
+P009,Electronics,-0.0799,Inelastic,669,0.0587,Moderate - Observational Estimate
+P010,Electronics,-0.214,Inelastic,669,0.0583,Moderate - Observational Estimate
+P011,Electronics,-0.0727,Inelastic,669,0.0563,Moderate - Observational Estimate
+P012,Electronics,-0.06,Inelastic,669,0.0586,Moderate - Observational Estimate
+P013,Electronics,-0.1913,Inelastic,669,0.0542,Moderate - Observational Estimate
+P014,Electronics,-0.0566,Inelastic,669,0.0552,Moderate - Observational Estimate
+P015,Electronics,-0.0694,Inelastic,669,0.0557,Moderate - Observational Estimate
+P016,Electronics,-0.1366,Inelastic,669,0.0602,Moderate - Observational Estimate
+P017,Electronics,-0.1004,Inelastic,669,0.0568,Moderate - Observational Estimate
+P018,Electronics,-0.0822,Inelastic,669,0.0616,Moderate - Observational Estimate
+P019,Electronics,-0.0888,Inelastic,669,0.0558,Moderate - Observational Estimate
+P020,Electronics,-0.0917,Inelastic,669,0.0618,Moderate - Observational Estimate
+P021,Electronics,-0.1519,Inelastic,669,0.0528,Moderate - Observational Estimate
+P022,Electronics,-0.0561,Inelastic,669,0.0554,Moderate - Observational Estimate
+P023,Electronics,-0.0653,Inelastic,669,0.054,Moderate - Observational Estimate
+P024,Electronics,-0.1158,Inelastic,669,0.0573,Moderate - Observational Estimate
+P025,Electronics,-0.0529,Inelastic,669,0.0527,Moderate - Observational Estimate
+P026,Fashion,-0.1439,Inelastic,669,0.0557,Moderate - Observational Estimate
+P027,Fashion,-0.0725,Inelastic,669,0.0538,Moderate - Observational Estimate
+P028,Fashion,-0.1458,Inelastic,669,0.0569,Moderate - Observational Estimate
+P029,Fashion,-0.0087,Inelastic,669,0.0548,Moderate - Observational Estimate
+P030,Fashion,-0.1267,Inelastic,669,0.0533,Moderate - Observational Estimate
+P031,Fashion,-0.0859,Inelastic,669,0.0549,Moderate - Observational Estimate
+P032,Fashion,-0.2556,Inelastic,669,0.0561,Moderate - Observational Estimate
+P033,Fashion,-0.1771,Inelastic,669,0.0552,Moderate - Observational Estimate
+P034,Fashion,-0.1077,Inelastic,669,0.0517,Moderate - Observational Estimate
+P035,Fashion,-0.1096,Inelastic,669,0.0514,Moderate - Observational Estimate
+P036,Fashion,-0.1659,Inelastic,669,0.0594,Moderate - Observational Estimate
+P037,Fashion,-0.2061,Inelastic,669,0.0546,Moderate - Observational Estimate
+P038,Fashion,-0.1282,Inelastic,669,0.0546,Moderate - Observational Estimate
+P039,Fashion,-0.1056,Inelastic,669,0.0592,Moderate - Observational Estimate
+P040,Fashion,-0.1309,Inelastic,669,0.0599,Moderate - Observational Estimate
+P041,Fashion,-0.0579,Inelastic,669,0.0539,Moderate - Observational Estimate
+P042,Fashion,-0.2175,Inelastic,669,0.0567,Moderate - Observational Estimate
+P043,Fashion,-0.104,Inelastic,669,0.0487,Moderate - Observational Estimate
+P044,Fashion,-0.2581,Inelastic,669,0.0579,Moderate - Observational Estimate
+P045,Fashion,-0.186,Inelastic,669,0.0561,Moderate - Observational Estimate
+P046,Fashion,-0.1816,Inelastic,669,0.0567,Moderate - Observational Estimate
+P047,Fashion,-0.0837,Inelastic,669,0.0556,Moderate - Observational Estimate
+P048,Fashion,-0.0351,Inelastic,669,0.0561,Moderate - Observational Estimate
+P049,Fashion,-0.1249,Inelastic,669,0.0571,Moderate - Observational Estimate
+P050,Fashion,-0.0941,Inelastic,669,0.0578,Moderate - Observational Estimate
+P051,Home Appliances,-0.131,Inelastic,669,0.0532,Moderate - Observational Estimate
+P052,Home Appliances,-0.0966,Inelastic,669,0.0585,Moderate - Observational Estimate
+P053,Home Appliances,-0.0803,Inelastic,669,0.0533,Moderate - Observational Estimate
+P054,Home Appliances,-0.1196,Inelastic,669,0.0575,Moderate - Observational Estimate
+P055,Home Appliances,-0.0472,Inelastic,669,0.0546,Moderate - Observational Estimate
+P056,Home Appliances,-0.1243,Inelastic,669,0.0569,Moderate - Observational Estimate
+P057,Home Appliances,-0.0896,Inelastic,669,0.0531,Moderate - Observational Estimate
+P058,Home Appliances,-0.076,Inelastic,669,0.061,Moderate - Observational Estimate
+P059,Home Appliances,-0.1029,Inelastic,669,0.0579,Moderate - Observational Estimate
+P060,Home Appliances,-0.1228,Inelastic,669,0.0518,Moderate - Observational Estimate
+P061,Home Appliances,-0.1318,Inelastic,669,0.0553,Moderate - Observational Estimate
+P062,Home Appliances,-0.0705,Inelastic,669,0.0579,Moderate - Observational Estimate
+P063,Home Appliances,-0.2264,Inelastic,669,0.0556,Moderate - Observational Estimate
+P064,Home Appliances,-0.0545,Inelastic,669,0.0551,Moderate - Observational Estimate
+P065,Home Appliances,-0.0672,Inelastic,669,0.0544,Moderate - Observational Estimate
+P066,Home Appliances,-0.1433,Inelastic,669,0.0533,Moderate - Observational Estimate
+P067,Home Appliances,-0.1078,Inelastic,669,0.0569,Moderate - Observational Estimate
+P068,Home Appliances,-0.0558,Inelastic,669,0.055,Moderate - Observational Estimate
+P069,Home Appliances,-0.027,Inelastic,669,0.0527,Moderate - Observational Estimate
+P070,Home Appliances,-0.1203,Inelastic,669,0.0582,Moderate - Observational Estimate
+P071,Home Appliances,-0.0839,Inelastic,669,0.0568,Moderate - Observational Estimate
+P072,Home Appliances,-0.0925,Inelastic,669,0.0556,Moderate - Observational Estimate
+P073,Home Appliances,-0.1203,Inelastic,669,0.0615,Moderate - Observational Estimate
+P074,Home Appliances,-0.0722,Inelastic,669,0.0522,Moderate - Observational Estimate
+P075,Home Appliances,-0.0353,Inelastic,669,0.0593,Moderate - Observational Estimate
+P076,Beauty,-0.1711,Inelastic,669,0.0573,Moderate - Observational Estimate
+P077,Beauty,-0.0888,Inelastic,669,0.0539,Moderate - Observational Estimate
+P078,Beauty,-0.0608,Inelastic,669,0.0539,Moderate - Observational Estimate
+P079,Beauty,-0.0633,Inelastic,669,0.0598,Moderate - Observational Estimate
+P080,Beauty,-0.1713,Inelastic,669,0.0559,Moderate - Observational Estimate
+P081,Beauty,-0.0257,Inelastic,669,0.0532,Moderate - Observational Estimate
+P082,Beauty,-0.0936,Inelastic,669,0.0574,Moderate - Observational Estimate
+P083,Beauty,-0.1951,Inelastic,669,0.0568,Moderate - Observational Estimate
+P084,Beauty,-0.1502,Inelastic,669,0.0543,Moderate - Observational Estimate
+P085,Beauty,-0.1988,Inelastic,669,0.0562,Moderate - Observational Estimate
+P086,Beauty,-0.1846,Inelastic,669,0.055,Moderate - Observational Estimate
+P087,Beauty,-0.2165,Inelastic,669,0.058,Moderate - Observational Estimate
+P088,Beauty,-0.2387,Inelastic,669,0.0576,Moderate - Observational Estimate
+P089,Beauty,-0.087,Inelastic,669,0.0593,Moderate - Observational Estimate
+P090,Beauty,-0.0488,Inelastic,669,0.0541,Moderate - Observational Estimate
+P091,Beauty,-0.1769,Inelastic,669,0.0582,Moderate - Observational Estimate
+P092,Beauty,0.0568,Inelastic,669,0.0583,Moderate - Observational Estimate
+P093,Beauty,-0.1593,Inelastic,669,0.0593,Moderate - Observational Estimate
+P094,Beauty,-0.1181,Inelastic,669,0.0587,Moderate - Observational Estimate
+P095,Beauty,-0.0421,Inelastic,669,0.0587,Moderate - Observational Estimate
+P096,Beauty,-0.2845,Inelastic,669,0.0615,Moderate - Observational Estimate
+P097,Beauty,-0.1424,Inelastic,669,0.0559,Moderate - Observational Estimate
+P098,Beauty,-0.0857,Inelastic,669,0.0552,Moderate - Observational Estimate
+P099,Beauty,-0.1899,Inelastic,669,0.0554,Moderate - Observational Estimate
+P100,Beauty,-0.2153,Inelastic,669,0.0559,Moderate - Observational Estimate
