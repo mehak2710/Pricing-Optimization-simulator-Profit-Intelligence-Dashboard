@@ -21,13 +21,13 @@ insights.
 ### Workflow
 1. Generate synthetic product, sales, competitor-pricing, and
 market-condition data.
-2.Clean and validate datasets.
-3.Explore revenue, profit, demand, pricing, and competition.
-4.Estimate product-level price elasticity and sensitivity segments.
-5.Evaluate candidate prices and pricing strategies.
-6.Generate recommended prices and expected outcomes.
-7.Explore pricing scenarios in Streamlit.
-8.Review business performance and optimization insights in Power BI.
+2. Clean and validate datasets.
+3. Explore revenue, profit, demand, pricing, and competition.
+4. Estimate product-level price elasticity and sensitivity segments.
+5. Evaluate candidate prices and pricing strategies.
+6. Generate recommended prices and expected outcomes.
+7. Explore pricing scenarios in Streamlit.
+8. Review business performance and optimization insights in Power BI.
 
 ### Business questions
 1. Which products and categories contribute most
