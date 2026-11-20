@@ -89,3 +89,72 @@ pricing-optimization/
 git clone <your-repository-url>
 cd pricing-optimization
 ```
+
+### 2. Create a virtual environment
+#### Windows PowerShell
+```bash
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+```
+#### macOS/Linux
+```bash
+python -m venv .venv
+source .venv/bin/activate
+```
+
+### 3. Install Dependencies
+```bash
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+### 4. Generate datasets
+```bash
+python generate_data.py
+```
+
+### Launch the Streamlit application
+```bash
+streamlit run src/pricing_simulator.py
+```
+
+## Streamlit Dashboard and simulator
+The Streamlit application is the interactive decision-support layer of
+the project. It allows a user to explore pricing scenarios and inspect
+their estimated business impact.
+
+A typical workflow is:
+1. Select a product or product group using the controls available in
+   the app.
+2. Review its baseline price and relevant product assumptions.
+3. Adjust a candidate price or scenario input.
+4. Run or update the scenario.
+5. Review the estimated demand, units sold, revenue, and profit.
+6. Compare the scenario with the baseline or recommendation.
+Key outputs may include: baseline price, scenario price, recommended
+price, expected units sold, expected revenue, expected profit, and
+percentage price change. The exact controls and outputs should be kept
+consistent with the current implementation of
+src/pricing_simulator.py.
+
+## PowerBI Report
+The Power BI report contains four analytical pages:
+1. Pricing Overview -- revenue, profit, profit margin, units sold,
+   and monthly trends.
+2. Category Performance -- category-level revenue and profitability
+   comparisons.
+3. Pricing Strategy & Optimization -- expected outcomes by strategy
+   and recommended product price changes.
+4. Price Elasticity Analysis -- product sensitivity, category
+   elasticity, and demand patterns.
+See [README_POWERBI.md](README_POWERBI.md) for the page-by-page report
+explanation.
+
+## Future Enhancements
+- Integrate refreshed competitor-price data.
+- Add time-aware demand forecasting and stronger causal analysis.
+- Include inventory-aware and promotion-aware optimization.
+- Add scenario history, report exports, and configurable business
+constraints.
+- Deploy the Streamlit app and automate data refresh.
+- Add model monitoring and recommendation explainability.
